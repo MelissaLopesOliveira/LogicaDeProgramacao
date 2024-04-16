@@ -1,2 +1,2 @@
 # LogicaDeProgramacao
-Esse repositório contém exercícios práticos que eu realizei para aprender lógica de programação utilizando a linguagem Portugol no Visualg.
+Acesse as aulas usadas para fazer esses exercícios: https://www.youtube.com/playlist?list=PLLxTDONTQvEedtVMTCiXwCo9a2uL7ccL-
