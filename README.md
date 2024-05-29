@@ -11,7 +11,7 @@ Acesse a playlist que eu assisti para realizar os exercícios [aqui](https://www
 - Variáveis, constantes e tipos de dados ✅
 - Fluxogramas
 - Operadores aritméticos, lógicos e relacionais ✅
-- Estrutura condicional SE
+- Estrutura condicional SE ✅
 - Estrutura condisional CASO
 - Estrutura de repetição: Laços: PARA, REPITA e ENQUANTO
 - Vetores e Matrizes
