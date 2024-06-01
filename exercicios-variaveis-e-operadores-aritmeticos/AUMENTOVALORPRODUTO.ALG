@@ -1,24 +1,24 @@
 Algoritmo "AumentoValorProduto"
 // 
 //  
-// DescriÁ„o   : Esse programa solicita o nome e o valor de custo um produto qualquer, e ent„o calcula um aumento de 65% e informa qual ser· o valor da venda.
+// Descri√ß√£o   : Esse programa solicita o nome e o valor de custo um produto qualquer, e ent√£o calcula um aumento de 65% e informa qual ser√° o valor da venda.
 // Autor(a)    : Melissa
 // Data atual  : 11/04/2024
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis 
+// Se√ß√£o de Declara√ß√µes das vari√°veis 
 nome: caracter
 preco, percentual, resultado: real
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc... 
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc... 
 escreval("Informe o nome do produto:")
 leia(nome)
-escreval("Informe o preÁo atual do produto:")
+escreval("Informe o pre√ßo atual do produto:")
 leia(preco)
 
 percentual <- 65/100
-resultado <- percentual*preco
+resultado <- preco + percentual
 
-escreval("VocÍ pode vender o produto informado por: R$", resultado)
+escreval("Voc√™ pode vender o produto informado por: R$", resultado)
 
 Fimalgoritmo
