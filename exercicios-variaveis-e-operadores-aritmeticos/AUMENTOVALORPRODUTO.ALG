@@ -17,7 +17,7 @@ escreval("Informe o preço atual do produto:")
 leia(preco)
 
 percentual <- 65/100
-resultado <- preco + percentual
+resultado <- preco * (1 + percentual)
 
 escreval("Você pode vender o produto informado por: R$", resultado)
 
