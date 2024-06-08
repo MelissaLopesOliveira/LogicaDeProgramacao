@@ -12,6 +12,6 @@ Acesse a playlist que eu assisti para realizar os exercícios [aqui](https://www
 - Fluxogramas
 - Operadores aritméticos, lógicos e relacionais ✅
 - Estrutura condicional SE ✅
-- Estrutura condisional CASO
-- Estrutura de repetição: Laços: PARA, REPITA e ENQUANTO
+- Estrutura condisional CASO✅
+- Estrutura de repetição: Laços: PARA, REPITA e ENQUANTO (for, while, do-while)
 - Vetores e Matrizes
